@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0345/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0345/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘金剛髻珠菩薩修行分
+  identifiers:
+    krp: KR6j0345
+    cbeta: T20n1130
+    cbeta_old_id: T20n1130
+    authorityid: CA0001669
+    json_key: T1130
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1130.xml
+    old_id: T20n1130
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0345_000-T.yaml, hash: 'sha256:58900cf185dc5bd7c1feef0522e60db4ab5f5eb56431a1d81294121e289851f8'}
+  - {seq: 1, filename: KR6j0345_001-T.yaml, hash: 'sha256:318657d10a61c646ca825ff883678b49e47d7f0ed87287c164daa23f30742258'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0345_000-T.markers.yaml, hash: 'sha256:1b50bc4638ffb16ac6debcd00bdbef0539e43a0b286cdd791a59404dfdbadb1c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0345_001-T.markers.yaml, hash: 'sha256:ef6e39acaa0577c5e132fba2fd836a89f3868fe4430527d9b61ca7c432c37211'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0345_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7905
+  label: 大乘金剛髻珠菩薩修行分一卷
+  type: juan
+  level: 1
+hash: sha256:7ffd44fc008ecebd0464d003c7c3f7f207f958c7824a87b76ed65d4b874d5db0
