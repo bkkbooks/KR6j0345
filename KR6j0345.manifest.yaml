@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0345_000.yaml, hash: 'sha256:58900cf185dc5bd7c1feef0522e60db4ab5f5eb56431a1d81294121e289851f8'}
-  - {seq: 1, filename: KR6j0345_001.yaml, hash: 'sha256:386a40d73083669804f3d5a4a836d75036a61b401012895871d87a32b28f5a39'}
+  - {seq: 1, filename: KR6j0345_001.yaml, hash: 'sha256:318657d10a61c646ca825ff883678b49e47d7f0ed87287c164daa23f30742258'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0345_001.markers.yaml, hash: 'sha256:6c40b98a4c0ca0de67c64d95b9131c01fe0d471ffaf7a43fa939a453ff2719bc'}
+  - {seq: 0, role: markers, filename: assets/KR6j0345_000.markers.yaml, hash: 'sha256:42bc074f24aa65f80cfbf1fd647a350a7d1ed59ea0e20a14c52ed23df6b7678e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0345_001.markers.yaml, hash: 'sha256:b20311c22231277bc23293e86bbe5b9c81185ec753fb8203e19ca3e7779b3c30'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 大乘金剛髻珠菩薩修行分一卷
   type: juan
   level: 1
-hash: sha256:7d1d9764d174057c0b80f33fc9fb6467836ca4a2164b2b778e5eb08fea350474
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:136fb10ed85c0c09ffd4f73b5a298339a3e3b0a9e74f84954fea674d6b420b48
