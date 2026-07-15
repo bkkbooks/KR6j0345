@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0345/v1
 canonical_location: https://kanripo.org/bkk/KR6j0345/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大乘金剛髻珠菩薩修行分
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0345_000.yaml, hash: 'sha256:58900cf185dc5bd7c1feef0522e60db4ab5f5eb56431a1d81294121e289851f8'}
-  - {seq: 1, filename: KR6j0345_001.yaml, hash: 'sha256:318657d10a61c646ca825ff883678b49e47d7f0ed87287c164daa23f30742258'}
+  - {seq: 1, filename: KR6j0345_001.yaml, hash: 'sha256:ace6e96c137bdfcabe95f304ee454b5a54e3aa858ba63d6880453dc6873b8eca'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0345_000.markers.yaml, hash: 'sha256:42bc074f24aa65f80cfbf1fd647a350a7d1ed59ea0e20a14c52ed23df6b7678e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0345_001.markers.yaml, hash: 'sha256:b20311c22231277bc23293e86bbe5b9c81185ec753fb8203e19ca3e7779b3c30'}
+  - {seq: 1, role: markers, filename: assets/KR6j0345_001.markers.yaml, hash: 'sha256:c6ab4a4a8476a8cd96b394d2502dffcc92b332994b39f4c202bc8da6bb660f8e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 大乘金剛髻珠菩薩修行分一卷
   type: juan
   level: 1
-hash: sha256:136fb10ed85c0c09ffd4f73b5a298339a3e3b0a9e74f84954fea674d6b420b48
+hash: sha256:231cd858b32cef2ba69f2a701d313291fb4b07da32c23bfd5d8684478f5eaa67
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
